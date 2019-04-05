@@ -12,8 +12,8 @@
         <test.log.directory>${basedir}/logs</test.log.directory>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <spark.version>1.6.0</spark.version>
-        <scala.version>2.11.7</scala.version>
-        <scala.binary.version>2.11</scala.binary.version>
+        <scala.version>2.10.7</scala.version>
+        <scala.binary.version>2.10</scala.binary.version>
         <org.scalatest.version>2.2.4</org.scalatest.version>
         <geotools.version>14.1</geotools.version>
     </properties>
